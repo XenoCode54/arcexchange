@@ -18,12 +18,12 @@ function TopContactBar (props) {
           <p className="top-contact-bar-text">234(816)1991217</p>
         </div>
         <div className="top-contact-bar-text-container">
-          <InstagramIcon className="icon" />
-          <p className="top-contact-bar-text">IG: bitcoindoctor1</p>
-        </div>
-        <div className="top-contact-bar-text-container">
           <FacebookIcon className="icon" />
           <p className="top-contact-bar-text">FB: Bitcoin Doctor Exchange</p>
+        </div>
+        <div className="top-contact-bar-text-container">
+          <InstagramIcon className="icon" />
+          <p className="top-contact-bar-text">IG: bitcoindoctor1</p>
         </div>
       </div>
     </div>
