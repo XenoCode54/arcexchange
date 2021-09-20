@@ -50,6 +50,7 @@ img {
     flex: 0 0 50%;
     max-width: 50%;
     margin-top: 10px;
+    align-items: center;
     padding-left: 30px;
     padding-right: 0;
     color: #ffffff;
@@ -80,11 +81,14 @@ img {
     .credit-card-area.bg-ffffff .row {
         padding: 40px 10px;
     }
+    .credit-card-content {
+        margin-bottom: 30px;
+    }
 
     .credit-card-content h3 {
         font-size: 30px;
         margin-top: 10px;
-        line-height: 1;
+        line-height: 1.4;
         margin-bottom: 10px;
     }
 }

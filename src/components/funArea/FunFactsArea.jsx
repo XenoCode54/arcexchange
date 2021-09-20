@@ -7,7 +7,7 @@ function FunFactsArea (props) {
       <div className="container">
         <div className="section-title">
           <span>Why choose us</span>
-          <h2>Bitcoin Doctor Exchange has reliably offered premium types of assistance to her clients on an every minute of every day for years.</h2>
+          <h2>Bitcoin Doctor Exchange <br/> has reliably offered premium types of assistance to her clients on an every minute of every day.</h2>
         </div>
 
         <div className="fun-facts-inner">
