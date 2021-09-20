@@ -1,0 +1,193 @@
+li {
+    font-size: 16px;
+    font-weight: 600;
+    /*padding: 10px 0;*/
+}
+
+li>.active {
+    color: #007bff;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    position: relative;
+}
+
+.navbar-brand, .navbar-brand:hover {
+    color: #fff;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 1;
+    width: 80px;
+    margin-left: 10px;
+    height: auto;
+    display: inline-block;
+}
+
+.contain {
+    width: 100%;
+    background-color: white;
+    /*line-height: 1.5;*/
+    box-shadow: 4px 4px 20px #cbced1;
+    }
+
+.button {
+    background-color: #007bff;
+    color: #ffffff;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 15px 35px;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
+.button:hover {
+    background-color: #248af6;
+}
+
+.button2 {
+    position: absolute;
+    top: 1.2rem;
+    right: 5rem;
+    display: none;
+    background-color: #007bff;
+    color: #ffffff;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 10px 30px;
+}
+
+.b2 {
+    /*display: none;*/
+}
+
+.button2:hover {
+    background-color: #248af6;
+}
+
+.links {
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.links li {
+    list-style: none;
+}
+
+.links li a {
+    text-decoration: none;
+    color: #09101f;
+    padding: 1rem;
+    display: block;
+}
+
+.links li a:hover {
+    color: #007bff;
+}
+
+.toggle-button {
+    position: absolute;
+    /*top: .75rem;*/
+    top: 1.8rem;
+    right: 1rem;
+    display: none;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 30px;
+    height: 21px
+}
+
+.toggle-call {
+    position: absolute;
+    top: 1.2rem;
+    right: 5rem;
+    display: none;
+    justify-content: space-between;
+    width: 30px;
+    height: 21px
+}
+
+.toggle-call .dot {
+    height: 5px;
+    width: 5px;
+    background-color: #09101f;
+    border-radius: 100%;
+}
+
+.toggle-button .bar {
+    height: 3px;
+    width: 100%;
+    background-color: #09101f;
+    border-radius: 10px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width: 767px) {
+    .toggle-button {
+        display: flex
+    }
+
+    .toggle-call {
+        display: flex
+    }
+
+    .links {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .button {
+        display: none;
+    }
+
+    .button2 {
+        display: flex;
+    }
+    b2 {
+        display: flex;
+    }
+
+    .navbar {
+        flex-direction: column;
+        align-items: flex-start;
+        line-height: 1.5;
+    }
+
+    .nav-links {
+        width: 100%;
+    }
+
+    .links li a {
+        padding: .5rem 1rem;
+    }
+
+    .links li {
+        text-align: center;
+    }
+
+    .links.active {
+        display: flex;
+    }
+    li {
+        padding: 10px 0;
+    }
+}
