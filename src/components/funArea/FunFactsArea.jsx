@@ -6,8 +6,8 @@ function FunFactsArea (props) {
     <section className="fun-facts-area ptb-100">
       <div className="container">
         <div className="section-title">
-          <span>Why choose us</span>
-          <h2>Bitcoin Doctor Exchange <br/> has reliably offered premium types of assistance to her clients on an every minute of every day.</h2>
+          <span>Why should you select us?</span>
+          <h2>ARC Exchange <br/> has consistently provided premium forms of support to his clientele on a daily basis.</h2>
         </div>
 
         <div className="fun-facts-inner">
@@ -16,7 +16,7 @@ function FunFactsArea (props) {
               <div className="single-fun-fact">
                 <h3>
                   <span className="odometer odometer-auto-theme"
-                        data-count="21584"><div
+                        data-count="48290"><div
                     className="odometer-inside"><span
                     className="odometer-digit"><span
                     // className="odometer-digit-spacer">8</span><span
@@ -25,36 +25,36 @@ function FunFactsArea (props) {
                     // className="odometer-ribbon-inner"><span
                     // className="odometer-value">3</span></span></span></span></span><span
                     // className="odometer-digit"><span
-                    className="odometer-digit-spacer">8</span><span
+                    className="odometer-digit-spacer">4</span><span
                     className="odometer-digit-inner"><span
                     className="odometer-ribbon"><span
                     className="odometer-ribbon-inner"><span
-                    className="odometer-value">2</span></span></span></span></span><span
+                    className="odometer-value">3</span></span></span></span></span><span
                     className="odometer-digit"><span
-                    className="odometer-digit-spacer">8</span><span
-                    className="odometer-digit-inner"><span
-                    className="odometer-ribbon"><span
-                    className="odometer-ribbon-inner"><span
-                    className="odometer-value">1</span></span></span></span></span><span
-                    className="odometer-formatting-mark">,</span><span
-                    className="odometer-digit"><span
-                    className="odometer-digit-spacer">8</span><span
-                    className="odometer-digit-inner"><span
-                    className="odometer-ribbon"><span
-                    className="odometer-ribbon-inner"><span
-                    className="odometer-value">5</span></span></span></span></span><span
-                    className="odometer-digit"><span
-                    className="odometer-digit-spacer">8</span><span
+                    className="odometer-digit-spacer">4</span><span
                     className="odometer-digit-inner"><span
                     className="odometer-ribbon"><span
                     className="odometer-ribbon-inner"><span
                     className="odometer-value">8</span></span></span></span></span><span
+                    className="odometer-formatting-mark">,</span><span
                     className="odometer-digit"><span
-                    className="odometer-digit-spacer">8</span><span
+                    className="odometer-digit-spacer">5</span><span
                     className="odometer-digit-inner"><span
                     className="odometer-ribbon"><span
                     className="odometer-ribbon-inner"><span
-                    className="odometer-value">4</span></span></span></span></span></div></span>
+                    className="odometer-value">4</span></span></span></span></span><span
+                    className="odometer-digit"><span
+                    className="odometer-digit-spacer">3</span><span
+                    className="odometer-digit-inner"><span
+                    className="odometer-ribbon"><span
+                    className="odometer-ribbon-inner"><span
+                    className="odometer-value">4</span></span></span></span></span><span
+                    className="odometer-digit"><span
+                    className="odometer-digit-spacer">5</span><span
+                    className="odometer-digit-inner"><span
+                    className="odometer-ribbon"><span
+                    className="odometer-ribbon-inner"><span
+                    className="odometer-value">7</span></span></span></span></span></div></span>
                 </h3>
                 <p>Transactions</p>
               </div>
@@ -99,19 +99,19 @@ function FunFactsArea (props) {
                     className="odometer-digit-inner"><span
                     className="odometer-ribbon"><span
                     className="odometer-ribbon-inner"><span
-                    className="odometer-value">5</span></span></span></span></span><span
+                    className="odometer-value">7</span></span></span></span></span><span
                     className="odometer-digit"><span
                     className="odometer-digit-spacer">8</span><span
                     className="odometer-digit-inner"><span
                     className="odometer-ribbon"><span
                     className="odometer-ribbon-inner"><span
-                    className="odometer-value">4</span></span></span></span></span><span
+                    className="odometer-value">8</span></span></span></span></span><span
                     className="odometer-digit"><span
                     className="odometer-digit-spacer">8</span><span
                     className="odometer-digit-inner"><span
                     className="odometer-ribbon"><span
                     className="odometer-ribbon-inner"><span
-                    className="odometer-value">4</span></span></span></span></span></div></span>
+                    className="odometer-value">5</span></span></span></span></span></div></span>
                 </h3>
                 <p>Customers</p>
               </div>

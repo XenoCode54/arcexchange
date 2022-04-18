@@ -1,7 +1,8 @@
 
 .top {
     width: 100%;
-    background: #09101f;
+    /*background: #6A0136;*/
+    background: #AE759F;
 }
 
 .top-contact-bar-body {
@@ -29,18 +30,21 @@
 }
 
 .top-contact-bar-text {
-    color: #fff;
+    cursor: pointer;
+    color: #210B2C;
     font-size: 14px;
     margin-bottom: 0;
     transition: all 0.5s;
 }
 
 .top-contact-bar-text:hover {
-    color: #007bff;
+    color: #55286F;
+    /*color: #BFAB25;*/
 }
 
 .icon {
-    color: #007bff;
+    color: #210B2C;
+    /*color: #BFAB25;*/
     margin-right: 1rem;
 }
 

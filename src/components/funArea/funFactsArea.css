@@ -15,7 +15,8 @@
     top: 0;
     width: 100%;
     height: 65%;
-    background-image: url('https://res.cloudinary.com/macxenon/image/upload/v1632067958/rec_lv3uxt.png');
+    /*background-image: url('https://res.cloudinary.com/macxenon/image/upload/v1632067958/rec_lv3uxt.png');*/
+    background-color: #55286F;
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -34,7 +35,7 @@
 
 .section-title span {
     font-weight: 600;
-    color: #007bff;
+    color: #55286F;
 }
 
 .fun-facts-area .section-title h2 {
@@ -75,7 +76,7 @@
     font-size: 45px;
     -webkit-transition: 0.5s;
     transition: 0.5s;
-    color: #007bff;
+    color: #55286F;
     position: relative;
     z-index: 1;
     margin-top: 10px;

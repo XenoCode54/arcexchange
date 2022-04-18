@@ -10,7 +10,7 @@
     width: 100px;
     height: 100px;
     font-size: 20px;
-    color: #007bff;
+    color: #AE759F;
 }
 
 .top-services-item {
@@ -26,7 +26,7 @@
 .top-services-item:hover {
     -webkit-transform: translateY(-10px);
     transform: translateY(-10px);
-    color: #007bff;
+    color: #AE759F;
 }
 
 .top-services-item:hover::before {
@@ -40,7 +40,7 @@
     height: 100%;
     left: 0;
     top: 0;
-    border-top: 2px solid #007bff;
+    border-top: 2px solid #AE759F;
     -webkit-transition: 0.5s;
     transition: 0.5s;
     z-index: -1;
@@ -55,7 +55,7 @@
 
 .top-services-item .icon i {
     font-size: 60px;
-    color: #007bff;
+    color: #AE759F;
     line-height: 1;
 }
 
@@ -66,11 +66,11 @@
     transition: 0.5s;
     font-weight: 600;
     /*color: #09101f;*/
-    color: #007bff;
+    color: #AE759F;
 }
 
 .top-services-item:hover a {
-    color: #007bff;
+    color: #AE759F;
 }
 
 
@@ -106,5 +106,5 @@ a {
 }
 
 /*.link-btn:hover {*/
-/*    color: #007bff;*/
+/*    color: #AE759F;*/
 /*}*/

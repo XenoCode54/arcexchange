@@ -5,14 +5,22 @@ li {
 }
 
 li>.active {
-    color: #007bff;
+    color: #AE759F;
 }
 
 .sticky {
-    position: fixed;
+    position: sticky;
     top: 0;
     width: 100%;
     z-index: 100;
+    animation-name: sticky;
+    animation-duration: 0.5s;
+    animation-timing-function: ease-out;
+}
+
+@keyframes sticky {
+    from {top: -60px}
+    to {top: 0}
 }
 
 .navbar {
@@ -27,22 +35,28 @@ li>.active {
     color: #fff;
     font-weight: 700;
     text-transform: uppercase;
-    line-height: 1;
-    width: 80px;
-    margin-left: 10px;
+    width: 60px;
+    margin: 0 0 0 30px ;
     height: auto;
     display: inline-block;
 }
 
+@media (max-width: 768px) {
+    .navbar-brand {
+        width: 40px;
+    }
+}
+
 .contain {
     width: 100%;
-    background-color: white;
+    background-color: #210B2C;
+    /*background-color: white;*/
     /*line-height: 1.5;*/
-    box-shadow: 4px 4px 20px #cbced1;
+    box-shadow: 4px 4px 20px #210B2C;
     }
 
 .button {
-    background-color: #007bff;
+    background-color: #AE759F;
     color: #ffffff;
     border-radius: 5px;
     font-size: 16px;
@@ -53,15 +67,16 @@ li>.active {
 }
 
 .button:hover {
-    background-color: #248af6;
+    background-color: #BC96E6;
 }
 
 .button2 {
     position: absolute;
     top: 1.2rem;
     right: 5rem;
+    cursor: pointer;
     display: none;
-    background-color: #007bff;
+    background-color: #AE759F;
     color: #ffffff;
     border-radius: 5px;
     font-size: 14px;
@@ -74,7 +89,7 @@ li>.active {
 }
 
 .button2:hover {
-    background-color: #248af6;
+    background-color: #BC96E6;
 }
 
 .links {
@@ -89,13 +104,13 @@ li>.active {
 
 .links li a {
     text-decoration: none;
-    color: #09101f;
+    color: #fff;
     padding: 1rem;
     display: block;
 }
 
 .links li a:hover {
-    color: #007bff;
+    color: #D8B4E2;
 }
 
 .toggle-button {
@@ -130,7 +145,7 @@ li>.active {
 .toggle-button .bar {
     height: 3px;
     width: 100%;
-    background-color: #09101f;
+    background-color: #D8B4E2;
     border-radius: 10px;
 }
 
@@ -186,8 +201,15 @@ li>.active {
 
     .links.active {
         display: flex;
+        animation-name: active;
+        animation-duration: 0.5s;
+        animation-timing-function: ease-out;
     }
     .links li {
         padding: 10px 0;
     }
+}
+@keyframes active {
+    from {opacity: 0}
+    to {opacity: 100%}
 }

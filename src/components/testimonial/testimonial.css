@@ -1,16 +1,16 @@
 .btn.btn-outline-primary:hover, .bg-primary {
-    background-color: #007bff !important;
+    background-color: #55286F !important;
 }
 .section-medium {
     padding: 55px 0;
 }
 .testimonial-four blockquote:hover::after, .section-arrow-primary-color.section-arrow--bottom-center:after {
-    border-right-color: #007bff;
+    border-right-color: #55286F;
 }
 .section-arrow-primary-color.section-arrow--bottom-center:after {
-    background-color: #007bff;
-    border-right-color: #007bff;
-    border-bottom-color: #007bff;
+    background-color: #55286F;
+    border-right-color: #55286F;
+    border-bottom-color: #55286F;
 }
 .section-arrow--bottom-center:after {
     z-index: 1;
@@ -49,10 +49,10 @@
     font-family: Poppins, serif;
 }
 .section-arrow-primary-color.section-arrow--bottom-center:after {
-    border-bottom-color: #007bff;
+    border-bottom-color: #55286F;
 }
 .section-arrow-primary-color.section-arrow--bottom-center:after{
-    background-color: #007bff;
+    background-color: #55286F;
 }
 .special-heading.line span:before, .special-heading.line span:after, .footer.footer-minimal, .t-bordered {
     border-top-color: #eaeaea;
@@ -71,7 +71,7 @@ section {
 
 .testimonial-two {
     padding: 20px;
-    border: 2px solid #007bff;
+    border: 2px solid #55286F;
     border-radius: 2px;
 }
 
@@ -79,7 +79,7 @@ section {
 .testimonial-two blockquote p:before {
     font-family: 'Playfair Display', serif;
     font-size: 54px;
-    color: #007bff;
+    color: #55286F;
     font-weight: 900;
     left: 10px;
     color: #FFF;
@@ -94,7 +94,7 @@ section {
 .testimonial-two blockquote p:after {
     font-family: 'Playfair Display';
     font-size: 54px;
-    color: #007bff;
+    color: #55286F;
     content: "”";
     font-size: 80px;
     font-style: normal;
@@ -116,7 +116,7 @@ section {
 
 .testimonial-two blockquote p:before,
 .testimonial-two blockquote p:after {
-    color: #007bff;
+    color: #55286F;
     font-weight: 900;
 }
 
@@ -173,18 +173,18 @@ section {
 
 .testimonial-two .owl-carousel .owl-dots .owl-dot.active span,
 .testimonial-two .owl-carousel .owl-dots .owl-dot:hover span {
-    border-color: #007bff;
+    border-color: #55286F;
 }
 
 .testimonial-two .owl-carousel .owl-dots .owl-dot.active span:before,
 .testimonial-two .owl-carousel .owl-dots .owl-dot:hover span:before {
-    background-color: #007bff;
+    background-color: #55286F;
 }
 
 .profile {
     width: 80px;
     height: 80px;
-    background-color: #007bff;
+    background-color: #D8B4E2;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -335,12 +335,12 @@ section {
 }
 
 .testimonial-four blockquote:hover::after {
-    border-right: 2px solid #007bff;
-    border-bottom: 2px solid #007bff;
+    border-right: 2px solid #55286F;
+    border-bottom: 2px solid #55286F;
 }
 
 .testimonial-four blockquote:hover {
-    border: 2px solid #007bff;
+    border: 2px solid #55286F;
 }
 
 

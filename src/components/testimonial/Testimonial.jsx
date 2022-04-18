@@ -10,10 +10,10 @@ function Testimonial (props) {
         <div className="container">
           <div className="row">
             <div className="col-md-12 text-white text-center">
-              <h2 className="section-title "> What Others Say About Us</h2>
+              <h2 className="section-title "> What Others Have to Say About Us</h2>
               <p className="section-sub-title">
-                We are a passionate Currency exchange agency that specializes in quality service delivery
-                <br /> with the best market rates &amp; instant naira payment.
+                We are a driven currency exchange business that specializes in providing high-quality service
+                <br /> at the best market rates and with immediate naira payment.
               </p>
             </div>
           </div>
@@ -25,17 +25,17 @@ function Testimonial (props) {
             <div className="col-md-4 testimonial-three-col">
               <div className="testimonial-inner">
                 <div className="testimonial-image" itemProp="image">
-                  <div className="profile">N</div>
+                  <div className="profile">M</div>
                   {/*<img width="180" height="180"*/}
                   {/*     src="https://bootdey.com/img/Content/avatar/avatar1.png" />*/}
                 </div>
                 <div className="testimonial-content">
                   <p>
-                    Bitcoin Doctor Exchange is fast and reliable. Awesome speed.
+                    ARC Exchange is quick and dependable. Amazing speed.
                   </p>
                 </div>
                 <div className="testimonial-meta">
-                  <strong className="testimonial-name" itemProp="name">Nnenna Nwoke</strong>
+                  <strong className="testimonial-name" itemProp="name">Mark Ola</strong>
                   {/*<span className="testimonial-job-title"*/}
                   {/*      itemProp="jobTitle">CEO</span> – <a*/}
                   {/*className="testimonial-link" href="#">Media Wiki</a>*/}
@@ -46,20 +46,19 @@ function Testimonial (props) {
             <div className="col-md-4 testimonial-three-col">
               <div className="testimonial-inner">
                 <div className="testimonial-image" itemProp="image">
-                  <div className="profile">V</div>
+                  <div className="profile">I</div>
                   {/*<img width="180" height="180"*/}
                   {/*     src="https://bootdey.com/img/Content/avatar/avatar2.png" />*/}
                 </div>
 
                 <div className="testimonial-content">
                   <p>
-                    I'm intrigued with the speed of the exchange. I didn't need to call anybody around to get compensated for my gift vouchers. Its whenever I'm initially finishing an exchange inside 3 minutes. Thanks to Bitcoin Doctor Exchange
+                    The rapidity of the interaction piques my interest. I didn't have to call anyone to receive reimbursed for my gift cards. It's when I'm first finishing a trade in under 4 minutes. Because of ARC Exchange
                   </p>
                 </div>
 
                 <div className="testimonial-meta">
-                  <strong className="testimonial-name" itemProp="name">Victor
-                                                                       Ajayi</strong>
+                  <strong className="testimonial-name" itemProp="name">Ify Omoha</strong>
                   {/*<span className="testimonial-job-title"*/}
                   {/*      itemProp="jobTitle">CEO</span> – <a*/}
                   {/*className="testimonial-link" href="#">Media Wiki</a>*/}
@@ -70,18 +69,17 @@ function Testimonial (props) {
             <div className="col-md-4 testimonial-three-col">
               <div className="testimonial-inner">
                 <div className="testimonial-image" itemProp="image">
-                  <div className="profile">F</div>
+                  <div className="profile">A</div>
                   {/*<img width="180" height="180"*/}
                   {/*     src="https://bootdey.com/img/Content/avatar/avatar3.png" />*/}
                 </div>
                 <div className="testimonial-content">
                   <p>
-                    You are a certain associate ....You're quick! and With sweet Rate Nice working with you Sir
+                    ARC Exchange is a great platform to trade in your items. I am very satisfied with the service.
                   </p>
                 </div>
                 <div className="testimonial-meta">
-                  <strong className="testimonial-name" itemProp="name">Fatima
-                                                                      Shehu</strong>
+                  <strong className="testimonial-name" itemProp="name">Amudat Shehu</strong>
                   {/*<span className="testimonial-job-title"*/}
                   {/*      itemProp="jobTitle">CEO</span> – <a*/}
                   {/*className="testimonial-link" href="#">Media Wiki</a>*/}
@@ -92,20 +90,19 @@ function Testimonial (props) {
             <div className="col-md-4 testimonial-three-col">
               <div className="testimonial-inner">
                 <div className="testimonial-image" itemProp="image">
-                  <div className="profile">J</div>
+                  <div className="profile">Q</div>
                   {/*<img width="180" height="180"*/}
                   {/*     src="https://bootdey.com/img/Content/avatar/avatar4.png" />*/}
                 </div>
 
                 <div className="testimonial-content">
                   <p>
-                    Woaw! The speed was amazing and the rates are really good. It was awesome doing business with you bro.
+                    Wow! You are a specific associate.... You're lightning fast! and at a reasonable rate. It has been a pleasure working with you, Sir.
                   </p>
                 </div>
 
                 <div className="testimonial-meta">
-                  <strong className="testimonial-name" itemProp="name">James
-                                                                       Odimegwu</strong>
+                  <strong className="testimonial-name" itemProp="name">Qeebah Odetola</strong>
                   {/*<span className="testimonial-job-title"*/}
                   {/*      itemProp="jobTitle">CEO</span> – <a*/}
                   {/*className="testimonial-link" href="#">Media Wiki</a>*/}
@@ -116,18 +113,17 @@ function Testimonial (props) {
             <div className="col-md-4 testimonial-three-col">
               <div className="testimonial-inner">
                 <div className="testimonial-image" itemProp="image">
-                  <div className="profile">O</div>
+                  <div className="profile">R</div>
                   {/*<img width="180" height="180"*/}
                   {/*     src="https://bootdey.com/img/Content/avatar/avatar5.png" />*/}
                 </div>
                 <div className="testimonial-content">
                   <p>
-                    Omo! Bitcoin doctor exchange na your surest plug! Sweet rates and very fast. Great job brother.
+                    It's a breeze to work with ARC Exchange. I always return because of their quickness and dependability; it's just fantastic... I wholeheartedly endorse.
                   </p>
                 </div>
                 <div className="testimonial-meta">
-                  <strong className="testimonial-name" itemProp="name">Opeyemi
-                                                                       Ade</strong>
+                  <strong className="testimonial-name" itemProp="name">Richard Okorafo</strong>
                   {/*<span className="testimonial-job-title"*/}
                   {/*      itemProp="jobTitle">CEO</span> – <a*/}
                   {/*className="testimonial-link" href="#">Media Wiki</a>*/}
@@ -138,20 +134,19 @@ function Testimonial (props) {
             <div className="col-md-4 testimonial-three-col">
               <div className="testimonial-inner">
                 <div className="testimonial-image" itemProp="image">
-                  <div className="profile">S</div>
+                  <div className="profile">K</div>
                   {/*<img width="180" height="180"*/}
                   {/*     src="https://bootdey.com/img/Content/avatar/avatar6.png" />*/}
                 </div>
 
                 <div className="testimonial-content">
                   <p>
-                    Working with Bitcoin Doctor Exchange is blitz. I always come back due to their speed and reliability, it's just good... I definitely recommend.
+                    I have been using ARC Exchange for the last two years and I am very satisfied with their service. I have been able to get the best rates and the best service.
                   </p>
                 </div>
 
                 <div className="testimonial-meta">
-                  <strong className="testimonial-name" itemProp="name">Samuel
-                                                                       Ogah</strong>
+                  <strong className="testimonial-name" itemProp="name">Kanyisola Adebayo</strong>
                   {/*<span className="testimonial-job-title"*/}
                   {/*      itemProp="jobTitle">CEO</span> – <a*/}
                   {/*className="testimonial-link" href="#">Media Wiki</a>*/}

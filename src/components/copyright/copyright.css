@@ -1,8 +1,8 @@
 .copyright-area {
     padding-top: 30px;
     padding-bottom: 30px;
-    background-color: #09101f;
-    border-top: 1px solid #222836;
+    background-color: #210B2C;
+    border-top: 1px solid #AE759F;
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 2500px) {
@@ -25,7 +25,7 @@
 }
 
 .bx {
-    font-family: 'boxicons' !important;
+    font-family: 'boxicons', serif !important;
     font-weight: normal;
     font-style: normal;
     font-variant: normal;
@@ -54,13 +54,13 @@
 .copyright-area .copyright-area-content p a {
     display: inline-block;
     font-weight: 600;
-    color: #007bff;
+    color: #AE759F;
 }
 
 
 .single-footer-widget .footer-logo .social li a .ico:hover {
-    background-color: #007bff;
-    border: 1px solid #007bff;
+    background-color: #AE759F;
+    border: 1px solid #AE759F;
     -webkit-transform: translateY(-2px);
     transform: translateY(-2px);
 }

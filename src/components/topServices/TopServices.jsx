@@ -21,7 +21,7 @@ function TopServices (props) {
               <p>E-Currency and Gift card conversions takes less than 5 minutes
                  on average.</p>
               <a
-                href="https://api.whatsapp.com/send?text=Hi Bitcoin Doctor! I want to Trade my Bitcoin and Giftcards!&phone=2348161991217"
+                href="https://api.whatsapp.com/send?text=Hi ARC Exchange! I want to Trade my Bitcoin and Giftcards!&phone=2348185180776"
                 className="link-btn">Exchange
                                      Now
                 <ArrowRightAltIcon />
@@ -40,7 +40,7 @@ function TopServices (props) {
               <p>E-Currency and Gift card conversions takes less than 5 minutes
                  on average</p>
               <a
-                href="https://api.whatsapp.com/send?text=Hi Bitcoin Doctor! I want to Trade my Bitcoin and Giftcards!&phone=2348161991217"
+                href="https://api.whatsapp.com/send?text=Hi ARC Exchange! I want to Trade my Bitcoin and Giftcards!&phone=2348185180776"
                 className="link-btn">Exchange
                                      Now
                 <ArrowRightAltIcon />

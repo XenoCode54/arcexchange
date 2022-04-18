@@ -10,8 +10,8 @@ function Services (props) {
         <div className="row align-items-center">
           <div className="col-lg-7">
             <div className="credit-card-content">
-              <span>Exchange facility</span>
-              <h3>We buy all cryptocurrency and gift cards.</h3>
+              <span>Exchange Facility</span>
+              <h3>We Buy All Cryptocurrency And Giftcards.</h3>
               <p>We accept variety of giftcards, digital assets on your convenience.
                 <br/> Trade with Us !
               </p>
@@ -56,6 +56,14 @@ function Services (props) {
                 <li>
                   <VerifiedUserIcon className="icon" />
                   Nordstrom
+                </li>
+                <li>
+                  <VerifiedUserIcon className="icon" />
+                  App Store
+                </li>
+                <li>
+                  <VerifiedUserIcon className="icon" />
+                  Vanilla
                 </li>
               </ul>
             </div>

@@ -1,5 +1,5 @@
 .footer-area {
-    background-color: #09101f;
+    background-color: #210B2C;
 }
 
 .pb-70 {
@@ -87,7 +87,7 @@
     left: 0;
     top: 5px;
     font-size: 25px;
-    color: #007bff;
+    color: #AE759F;
 }
 
 .single-footer-widget .footer-contact-info li span {
@@ -115,7 +115,7 @@
     height: 1px;
     -webkit-transition: 0.5s;
     transition: 0.5s;
-    background-color: #007bff;
+    background-color: #AE759F;
 }
 
 .single-footer-widget .quick-links {
@@ -145,20 +145,20 @@
     height: 1px;
     -webkit-transition: 0.5s;
     transition: 0.5s;
-    background-color: #007bff;
+    background-color: #AE759F;
 }
 
 .single-footer-widget .footer-logo .social li a i:hover {
-    background-color: #007bff;
-    border: 1px solid #007bff;
+    background-color: #AE759F;
+    border: 1px solid #AE759F;
     -webkit-transform: translateY(-2px);
     transform: translateY(-2px);
 }
 
 .single-footer-widget .footer-contact-info li a:hover {
-    color: #007bff;
+    color: #AE759F;
 }
 
 .single-footer-widget .quick-links li a:hover {
-    color: #007bff;
+    color: #AE759F;
 }

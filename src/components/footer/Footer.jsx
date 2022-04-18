@@ -9,26 +9,25 @@ function Footer (props) {
           <div className="col-lg-4 col-sm-6">
             <div className="single-footer-widget">
               <div className="footer-logo">
-                <h2><a href="index.html">BitcoinDoctorExchange</a></h2>
+                <h2><a href="/">ARC Exchange</a></h2>
 
-                <p>Is the best place to trade your digital assets. Trade with the direct source just like thousands of other Nigerians.
-                   Trade with peace of mind.</p>
+                <p>Is the greatest platform for trading digital assets. Like hundreds of other Nigerians, We trade with a direct source. <br />Trade with confidence!</p>
 
                 <ul className="social">
                   <li>
-                    <a href="https://web.facebook.com/Bitcoin-Doctor-Exchange-100891402358023/?_rdr" className="facebook"
+                    <a href="https://www.facebook.com/arcexchange" className="facebook"
                        target="_blank">
                       <i className="bx bxl-facebook"/>
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.instagram.com/bitcoindoctor1"
+                    <a href="https://www.instagram.com/robb_arc"
                        className="instagram" target="_blank">
                       <i className="bx bxl-instagram"/>
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="twitter" target="_blank">
+                    <a href="https://www.twitter.com/robb_arc" className="twitter" target="_blank">
                       <i className="bx bxl-twitter"/>
                     </a>
                   </li>
@@ -50,23 +49,23 @@ function Footer (props) {
                 <li>
                   <i className="bx bxs-phone"/>
                   <span>Phone</span>
-                  <a href="tel:+2348161991217">+2348161991217</a>
+                  <a href="tel:+2348185180776">+2348185180776</a>
                 </li>
                 <li>
                   <i className="bx bx-envelope"/>
                   <span>Email</span>
                   <a
-                    href="mailto:agoruafrancis@gmail.com">agoruafrancis@gmail.com</a>
+                    href="mailto:arcexchange.ng@gmail.com">arcexchange.ng@gmail.com</a>
                 </li>
 
                 <li>
                   <i className="bx bxl-instagram"/>
-                  <a href="https://www.instagram.com/bitcoindoctor1">IG: bitcoindoctor1</a>
+                  <a href="https://www.instagram.com/robb_arc">IG: robb_arc</a>
                 </li>
 
                 <li>
                   <i className="bx bxl-facebook"/>
-                  <a href="https://web.facebook.com/Bitcoin-Doctor-Exchange-100891402358023/?_rdr">FB: Bitcoin Doctor Exchange</a>
+                  <a href="https://www.facebook.com/arcexchange">FB: ARC Exchange</a>
                 </li>
 
               </ul>

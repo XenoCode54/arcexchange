@@ -10,14 +10,11 @@ function MainBanner (props) {
             <div className="col-lg-6">
               <div className="main-banner-content">
                 <h1>Trade your Bitcoin &amp; Redeem Giftcards</h1>
-                <p>Bitcoin Doctor Exchange is trusted for the best market rates
-                   at quality service delivery.
-                   Instant naira payment after confirmation. Trade with the
-                   source.
+                <p>ARC Exchange is known for providing the best market prices while providing high-quality service. After confirmation, you will get an instant naira payment. <br /> Deal directly with the source.
                 </p>
                 <div className="banner-btn">
                   <a
-                    href="https://api.whatsapp.com/send?text=Hi Bitcoin Doctor! I want to Trade my Bitcoin and Giftcards!&phone=2348161991217"
+                    href="https://api.whatsapp.com/send?text=Hi ARC Exchange! I want to Trade my Bitcoin and Giftcards!&phone=2348185180776"
                     className="default-btn">Exchange Now</a>
                 </div>
               </div>
@@ -26,7 +23,7 @@ function MainBanner (props) {
             <div className="col-lg-6">
               <div className="main-banner-image">
                 <img
-                  src="pix2.png"
+                  src="heron.png"
                   alt="Person" />
 
                 <div className="banner-mobile">
@@ -42,7 +39,7 @@ function MainBanner (props) {
 
       <div className="main-banner-shape">
         <div className="shape-1">
-          <img src="as.png" alt="shape" />
+          <img src="and.png" alt="shape" />
         </div>
       </div>
     </div>
