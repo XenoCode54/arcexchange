@@ -1,0 +1,41 @@
+.main-container-rates {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    row-gap: 50px;
+    width: 100%;
+    font-family: "Open Sans", sans-serif;
+    height: 100%;
+    background: #210B2C;
+    padding: 100px;
+    margin: 0 0 100px 0;
+    text-align: center;
+    border-radius: 50px;
+}
+
+@media (max-width: 768px) {
+    .main-container-rates {
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 1fr;
+        padding: 50px;
+    }
+    .container-rates {
+        font-size: 1rem;
+    }
+
+    .title-rates {
+        font-size: 1.3rem;
+    }
+}
+
+.container-rates {
+    color: #D8B4E2;
+    font-size: 1.2em;
+    font-weight: 500;
+}
+
+.title-rates {
+    color: white;
+    font-size: 1.8rem;
+    font-weight: 600;
+}

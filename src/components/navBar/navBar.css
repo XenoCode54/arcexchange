@@ -34,16 +34,26 @@ li>.active {
 .navbar-brand, .navbar-brand:hover {
     color: #fff;
     font-weight: 700;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
     width: 60px;
     margin: 0 0 0 30px ;
     height: auto;
-    display: inline-block;
+    display: inline-flex;
+    align-items: center;
+}
+
+.nav-title {
+    margin: 0;
+    color: rgba(255, 215, 0, 0.69);
 }
 
 @media (max-width: 768px) {
     .navbar-brand {
         width: 40px;
+        margin: 0;
+    }
+    .navbar-brand:hover {
+        margin: 0;
     }
 }
 

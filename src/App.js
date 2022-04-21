@@ -4,6 +4,7 @@ import Footer from './components/footer/Footer';
 import FunFactsArea from './components/funArea/FunFactsArea';
 import MainBanner from './components/mainBanner/MainBanner';
 import NavBar from './components/navBar/NavBar';
+import Rates from './components/rates/Rates';
 import Services from './components/services/Services';
 import Testimonial from './components/testimonial/Testimonial';
 import TopContactBar from './components/topContactBar/TopContactBar';
@@ -23,6 +24,7 @@ function App () {
       <Services />
       <TopServices />
       <FunFactsArea />
+      <Rates />
       <Testimonial/>
       <Footer />
       <Copyright />

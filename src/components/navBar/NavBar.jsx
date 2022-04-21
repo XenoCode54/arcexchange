@@ -27,6 +27,7 @@ function NavBar (props) {
           {/*<div>BrandName</div>*/}
           <a className="navbar-brand" href="/">
             <img src="logoo.png" alt="logo" />
+            <p className={'nav-title'}>ARC Exchange</p>
           </a>
 
             <div onClick={() => window.open('https://api.whatsapp.com/send?text=Hi ARC Exchange! I want to Trade my Bitcoin and GiftCards!&phone=2348185180776', '_blank')} className="button2">Trade Now</div>
