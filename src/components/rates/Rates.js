@@ -17,7 +17,7 @@ export default function Rates () {
 
   let headers = new Headers();
   // headers.append('X-CMC_PRO_API_KEY', 'b9f8c8c0-f8f4-4f0f-b8b6-b9f8c8c0f8f4');
-  headers.append('X-CoinAPI-Key', process.env.REACT_APP_COIN_API_KEY);
+  headers.append('X-CoinAPI-Key', 'D3E5FED3-A46E-4E99-8054-2E9E88B822B4');
 
   useEffect(() => {
     const fetchBitcoin = async () => {

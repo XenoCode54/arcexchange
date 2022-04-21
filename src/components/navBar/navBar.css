@@ -55,6 +55,9 @@ li>.active {
     .navbar-brand:hover {
         margin: 0;
     }
+    .nav-title {
+        font-size: 10px;
+    }
 }
 
 .contain {
