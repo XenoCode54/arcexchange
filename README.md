@@ -1,3 +1,3 @@
-# Bitcoin Doctor Exchange
+# ARC Exchange
 
-See the hosted site here at [Bitcoin Doctor Exchange](https://bitcoindoctorexchange.com/).
+See the hosted site here at [ARC Exchange](https://arcexchangeng.com/).
